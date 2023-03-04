@@ -6,7 +6,7 @@
         "radio": "*",
         "microphone": "*",
         "gatorSoil": "github:sparkfun/pxt-gator-soil#v1.1.2",
-        "kitronik soil moisture": "github:vifeng/kitronik-soil-moisture#e1350850c09588a5806bb7c772c84ed0fa19b846"
+        "kitronik soil moisture": "github:vifeng/kitronik-soil-moisture#0e8619f7d17b64f9ba9e746f7e7920d797d20bf5"
     },
     "files": [
         "main.blocks",
