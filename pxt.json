@@ -5,12 +5,14 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "gatorSoil": "github:sparkfun/pxt-gator-soil#v1.1.2"
+        "gatorSoil": "github:sparkfun/pxt-gator-soil#v1.1.2",
+        "kitronik soil moisture": "github:vifeng/kitronik-soil-moisture#e1350850c09588a5806bb7c772c84ed0fa19b846"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
